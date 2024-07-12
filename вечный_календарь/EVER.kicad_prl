@@ -80,14 +80,26 @@
   "project": {
     "files": [
       {
-        "name": "EVER.kicad_pcb",
-        "open": false,
+        "name": "EVER.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 73,
+          "pos_x": 80,
           "pos_y": -9,
-          "size_x": 1856,
+          "size_x": 1849,
+          "size_y": 1098
+        }
+      },
+      {
+        "name": "EVER.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 80,
+          "pos_y": -9,
+          "size_x": 1849,
           "size_y": 1098
         }
       }
